@@ -49,7 +49,7 @@ Welcome to 2026.
 <details>
 <summary>Small local-model prophecy</summary>
 
-I'm waiting for the day I have a home server running local-only models that quietly help me every day.
+I'm waiting for the day I have a home server running local models that quietly help me every day.
 
 Until then, a good old 64GB M1 Max still does a worrying amount of work.
 
